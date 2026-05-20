@@ -1,0 +1,15 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#FFF7ED"/>
+  <rect x="80" y="80" width="1040" height="470" rx="24" fill="#FFFFFF" stroke="#E6DED2" stroke-width="4"/>
+  <rect x="134" y="132" width="148" height="148" rx="18" fill="#0F766E"/>
+  <text x="208" y="225" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="56" font-weight="700">NK</text>
+  <text x="330" y="190" fill="#1F2933" font-family="Arial, sans-serif" font-size="72" font-weight="700">React Developer</text>
+  <text x="330" y="265" fill="#667085" font-family="Arial, sans-serif" font-size="34">Portfolio, projects, skills, and contact.</text>
+  <rect x="330" y="340" width="190" height="64" rx="10" fill="#0F766E"/>
+  <text x="425" y="382" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24" font-weight="700">View Work</text>
+  <rect x="552" y="340" width="190" height="64" rx="10" fill="#FFEAD5" stroke="#E6DED2" stroke-width="3"/>
+  <text x="647" y="382" text-anchor="middle" fill="#1F2933" font-family="Arial, sans-serif" font-size="24" font-weight="700">Contact</text>
+  <rect x="134" y="346" width="148" height="28" rx="14" fill="#D9F2E5"/>
+  <rect x="134" y="404" width="102" height="28" rx="14" fill="#E15F41"/>
+  <rect x="134" y="462" width="126" height="28" rx="14" fill="#D99A28"/>
+</svg>
